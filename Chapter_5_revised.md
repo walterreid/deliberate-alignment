@@ -93,3 +93,7 @@ That time is gone.
 
 *The client doesn't know what they need until the right conversation surfaces it. The conversation is not a step in the process. It is the process.*
 
+---
+
+_Copyright Walter Reid, 2026. All rights reserved._
+

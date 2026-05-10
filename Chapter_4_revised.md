@@ -116,3 +116,7 @@ It is not a meeting. It is the work.
 
 *The room that produces alignment is not the room where everyone agrees. It is the room where the decision is made by the people who have to live with it, in the presence of everything they need to make it well.*
 
+---
+
+_Copyright Walter Reid, 2026. All rights reserved._
+

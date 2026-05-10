@@ -89,3 +89,7 @@ The question is what he will need when he gets there.
 
 *Mark knew who had the problem. John heard what the problem was. Walter built the solution. For now, that is three people. The question the next decade will answer is which of those functions the room can hold alone.*
 
+---
+
+_Copyright Walter Reid, 2026. All rights reserved._
+

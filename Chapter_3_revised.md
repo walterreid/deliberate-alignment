@@ -128,3 +128,7 @@ What happens in that room, and who belongs in it, is what the next chapter is fo
 
 [^1]: AWS Prescriptive Guidance, "Operationalizing agentic AI on AWS," section "Evolving software delivery for agentic AI," 2026. https://docs.aws.amazon.com/prescriptive-guidance/latest/strategy-operationalizing-agentic-ai/software-delivery.html
 
+---
+
+_Copyright Walter Reid, 2026. All rights reserved._
+

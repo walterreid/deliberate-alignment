@@ -145,3 +145,7 @@ The audit — what do I know, what have I been carrying, what in my contribution
 
 *The process was never the point. It was the container. What it was containing is the question.*
 
+---
+
+_Copyright Walter Reid, 2026. All rights reserved._
+

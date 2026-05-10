@@ -83,3 +83,7 @@ The practitioners who live this will know before I do.
 
 *The outline survives until it stops serving the end. The end was always this.*
 
+---
+
+_Copyright Walter Reid, 2026. All rights reserved._
+

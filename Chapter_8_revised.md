@@ -75,3 +75,7 @@ The website analogy is useful precisely because it is not exotic. Everyone has e
 
 *Custom was never the luxury. The economic barrier was the luxury. We just got used to thinking they were the same thing.*
 
+---
+
+_Copyright Walter Reid, 2026. All rights reserved._
+

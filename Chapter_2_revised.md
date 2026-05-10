@@ -194,3 +194,7 @@ The constraint is the same as it always was. The cost of carrying it has changed
 
 [^2]: "Adoption of artificial intelligence in healthcare: survey of health system priorities, successes, and challenges," *Journal of the American Medical Informatics Association* 32, no. 7 (2025). Scottsdale Institute member survey, Fall 2024, 43 responding US health systems. https://academic.oup.com/jamia/article/32/7/1093/8125015
 
+---
+
+_Copyright Walter Reid, 2026. All rights reserved._
+

@@ -88,3 +88,7 @@ That question is what Deliberate Alignment is designed to answer.
 ---
 
 [^1]: Ryan Lopopolo, "Harness engineering: leveraging Codex in an agent-first world," OpenAI, February 11, 2026. https://openai.com/index/harness-engineering/
+
+---
+
+_Copyright Walter Reid, 2026. All rights reserved._

@@ -113,3 +113,7 @@ The question is whether what they produce, when they converge, will be the thing
 
 *Coordination problems have known solutions. Meaning problems require something the field has not yet fully described. The conversations are not waiting for the description to arrive.*
 
+---
+
+_Copyright Walter Reid, 2026. All rights reserved._
+

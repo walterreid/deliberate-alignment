@@ -17,3 +17,7 @@ Not everything will change at once. But what matters is changing — and the tea
 
 That rethinking is what this book is about.
 
+---
+
+_Copyright Walter Reid, 2026. All rights reserved._
+
